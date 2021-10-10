@@ -5,7 +5,7 @@ String lastName = "Somayaji"
 int age = 30;
 
 
-public static void main(){
+public static void main(String args[]){
 	HelloWorld hi = new HelloWorld();
 	system.out.println("user details:"+hi.firstName +" "+hi.lastName+" "+hi.age);
 }
